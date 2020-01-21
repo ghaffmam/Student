@@ -10,6 +10,7 @@ public class Student {
     private String name;
     private int studentID;
     private int mona;
+    private String status;
     /**
      * Get the value of name
      *
